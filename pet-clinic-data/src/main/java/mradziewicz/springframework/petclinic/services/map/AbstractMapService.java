@@ -2,7 +2,6 @@ package mradziewicz.springframework.petclinic.services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 public abstract class AbstractMapService<T, ID> {
